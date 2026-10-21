@@ -3,10 +3,17 @@
     "description": "An fMRI memory task including encoding and delayed recognition originally developed by Dr. J Daniel Ragland's group: https://doi.org/10.1093/schbul/sbr146 and https://doi.org/10.1001/jamapsychiatry.2015.0276",
     "creators": [
         {
-            "name": "Multiple Contributors"
+            "name": "Katie M. Lavigne"
+        },
+        {
+            "name": "John Daniel Ragland"
+        },
+        {
+            "name": "Martin Lepage"
         }
     ],
     "version": "2024-08-01T21:15:15.153118",
+    "privacy": "open",
     "types": [
         {
             "information": {
@@ -31,7 +38,12 @@
                 "value": "KB"
             },
             "access": {
-                "landingPage": "https://osf.io/zej5w/"
+                "landingPage": "https://osf.io/zej5w/",
+                 "authorizations": [
+                      {
+                        "value": "open"
+                      }            
+                ]
             },
             "formats": [
                 "N/A"
@@ -75,7 +87,7 @@
             "category": "CONP_status",
             "values": [
                 {
-                    "value": "CONP"
+                    "value": "Canadian"
                 }
             ]
         }

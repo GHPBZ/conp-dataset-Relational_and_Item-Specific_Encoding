@@ -41,7 +41,7 @@
                 "landingPage": "https://osf.io/zej5w/",
                  "authorizations": [
                       {
-                        "value": "open"
+                        "value": "public"
                       }            
                 ]
             },
